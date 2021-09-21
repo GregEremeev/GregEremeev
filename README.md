@@ -13,4 +13,4 @@ I'm a software engineer 🚀 &nbsp;and open source 💻 &nbsp;enthusiast.
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="25" src="https://avatars3.githubusercontent.com/in/15368?s=60&v=4"></code>
-
+<code><img height="25" src="https://maddevs.io/_nuxt/img/apple.ff26334.svg"></code>
