@@ -16,3 +16,4 @@ I'm a software engineer 🚀 &nbsp;and open source 💻 &nbsp;enthusiast.
 <code><img height="30" src="https://maddevs.io/_nuxt/img/apple.ff26334.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/postgresql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/docker.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/vim.png"></code>
