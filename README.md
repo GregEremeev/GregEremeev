@@ -6,4 +6,3 @@ I'm a software engineer 🚀 &nbsp;and open source 💻 &nbsp;enthusiast.
 
 - [StackOverflow](https://stackoverflow.com/users/2699806/greg-eremeev)
 - [LinkedIn](https://www.linkedin.com/in/greg-eremeev-17531a8b/)
-- [UpWork](https://www.upwork.com/freelancers/~018a2941b70ae8135d)
